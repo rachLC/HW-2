@@ -1,7 +1,7 @@
 {
 "type": "FeatureCollection",
-"name": "fav study places json",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"name": "fav study places 4326 json",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "id": 5, "name": "Top of Student Union" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -8799600.108999816700816, 4288289.52545833401382 ], [ -8799481.983655506744981, 4288345.757650992833078 ], [ -8799459.717216802760959, 4288301.60217085108161 ], [ -8799580.484341975301504, 4288251.408334450796247 ], [ -8799600.108999816700816, 4288289.52545833401382 ] ] ] ] } },
 { "type": "Feature", "properties": { "id": 6, "name": "2nd Floor of UL" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -8799737.351681051775813, 4288230.515374322421849 ], [ -8799689.465536130592227, 4288252.787999866530299 ], [ -8799661.253543775528669, 4288195.250383877195418 ], [ -8799710.995740823447704, 4288173.720179184339941 ], [ -8799737.351681051775813, 4288230.515374322421849 ] ] ] ] } },

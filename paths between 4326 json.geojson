@@ -1,7 +1,7 @@
 {
 "type": "FeatureCollection",
-"name": "paths between json",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"name": "paths between 4326 json",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "id": 10, "from-to": "Kenan Science Library to Meantime" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -8799958.08392090909183, 4288220.605128180235624 ], [ -8799988.874947680160403, 4288353.243397351354361 ], [ -8799936.372299468144774, 4288378.90258632786572 ], [ -8799942.688407523557544, 4288441.274153377860785 ] ] ] } },
 { "type": "Feature", "properties": { "id": 11, "from-to": "Greenlaw lounge to Stone and Leaf" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -8799717.644161639735103, 4288279.226506072096527 ], [ -8799709.21610495261848, 4288262.771728731691837 ], [ -8799655.838412603363395, 4288269.19310525432229 ], [ -8799631.758250640705228, 4288236.283550572581589 ], [ -8799614.902137266471982, 4288230.664846114814281 ] ] ] } },
