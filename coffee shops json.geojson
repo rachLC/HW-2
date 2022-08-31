@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "coffee shops json",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 2, "name": "Stone and Leaf" }, "geometry": { "type": "Point", "coordinates": [ -8799616.337082261219621, 4288232.349772508256137 ] } },
+{ "type": "Feature", "properties": { "id": 3, "name": "Meantime" }, "geometry": { "type": "Point", "coordinates": [ -8799942.408320229500532, 4288441.805255230516195 ] } },
+{ "type": "Feature", "properties": { "id": 4, "name": "Bojangles" }, "geometry": { "type": "Point", "coordinates": [ -8799557.085711471736431, 4288240.652512365020812 ] } },
+{ "type": "Feature", "properties": { "id": 1, "name": "Alpine" }, "geometry": { "type": "Point", "coordinates": [ -8799587.081560647115111, 4288284.898199980147183 ] } }
+]
+}
